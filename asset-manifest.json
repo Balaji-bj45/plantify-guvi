@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/plantify-guvi/static/css/main.a76570c8.css",
+    "main.js": "/plantify-guvi/static/js/main.a705759a.js",
+    "static/js/453.9c84cbf9.chunk.js": "/plantify-guvi/static/js/453.9c84cbf9.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/plantify-guvi/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/plantify-guvi/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/plantify-guvi/index.html",
+    "main.a76570c8.css.map": "/plantify-guvi/static/css/main.a76570c8.css.map",
+    "main.a705759a.js.map": "/plantify-guvi/static/js/main.a705759a.js.map",
+    "453.9c84cbf9.chunk.js.map": "/plantify-guvi/static/js/453.9c84cbf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76570c8.css",
+    "static/js/main.a705759a.js"
+  ]
+}
